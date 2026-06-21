@@ -1,0 +1,15 @@
+<resources>
+    <color name="bg_dark">#1A1326</color>
+    <color name="bg_panel">#2B2042</color>
+    <color name="bg_panel_light">#3D2F5C</color>
+    <color name="gold">#E8B84B</color>
+    <color name="gold_dark">#A8762E</color>
+    <color name="hp_red">#E84B4B</color>
+    <color name="mana_blue">#4B9CE8</color>
+    <color name="xp_green">#5CC76A</color>
+    <color name="text_light">#F0E8D8</color>
+    <color name="text_muted">#A89FBE</color>
+    <color name="warrior_accent">#E86B4B</color>
+    <color name="mage_accent">#8C6BE8</color>
+    <color name="knight_accent">#6B9CE8</color>
+</resources>
