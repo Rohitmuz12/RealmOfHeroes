@@ -19,8 +19,8 @@ enum class StatusEffectType {
 /**
  * A single active status effect instance on a combatant.
  *
- * @param magnitude meaning depends on type: damage-per-tick for POISON/BURN/REGEN,
- *                  or a percentage multiplier delta for the *_UP/*_DOWN types
+ * @param magnitude meaning depends on type: damage-per-tick for POISON, BURN, or REGEN,
+ *                  or a percentage multiplier delta for the UP/DOWN stat-modifier types
  *                  (e.g. 0.3 = +30% for ATTACK_UP, -30% for ATTACK_DOWN if negative).
  * @param remainingTurns how many more end-of-turn ticks this effect will apply before expiring.
  * @param sourceName who/what applied this, shown in battle log messages.
